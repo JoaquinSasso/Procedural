@@ -1,0 +1,8 @@
+/*Un comercio almacena información de productoss para la venta, por cada uno se conoce: nombre, tipo (1 bazar, 2: muebles, 3: manteleria), precio de venta y stock.
+Se pide que usando funciones para cada item, requelva lo siguiente
+a) Ingresar una cantidad de productos y gerrar un arreglo dinámico para almacenar los datos de cada
+uno
+by Decir la cantidad de productos de manteleria con stock 0 y la cantidad cuyo precio es menor a 1000 (hacer una función que devuelva
+ambos resultados). c) indicar el precio promedio de los productos con stock mayor 10.
+d) Mostrar los nombres y stock de fos productos cuyo precio de venta sea mayor a uno ingresado por
+teclado (hacer una función recursiva)
