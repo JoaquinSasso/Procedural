@@ -1,3 +1,4 @@
+#include "stdio.h"
 const int N = 4;
 const int M = 3;
 
